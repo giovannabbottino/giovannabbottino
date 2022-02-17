@@ -4,9 +4,9 @@ My name is Giovanna, I am a full-stack web developer and junior data scientist. 
 
 ## 🌱 My stats 
 <p>
-<a href="https://github.com/AVS1508">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=giovannabbottino&show_icons=true&theme=dracula" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannabbottino&layout=compact&theme=dracula" />
+<a href="https://github.com/giovannabbottino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannabbottino&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannabbottino&layout=compact&theme=dracula" />
 </a>
 </p>
 
