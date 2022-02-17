@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, how are you? 👋
+## ⚡ About Me
+My name is Giovanna, I am a full-stack web developer and junior data scientist. Graduating in Software Engineering and Digital Games, I have experience with software creation and programming.
 
-<!--
-**giovannabbottino/giovannabbottino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 My stats 
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannabbottino&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannabbottino&layout=compact&theme=dracula" />
+</a>
+</p>
 
-Here are some ideas to get you started:
+## 📫 How to reach me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://instagram.com/giovannabbottino) [![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovannabbottino/)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannabbottino/?locale=en_US)
+---
+![Snake animation](https://github.com/giovannabbottino/giovannabbottino/blob/output/github-contribution-grid-snake.svg)
