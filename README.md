@@ -11,7 +11,7 @@ My name is Giovanna, I am a full-stack web developer and junior data scientist. 
 </p>
 
 ## 🤔 Are you a student? 
-Students are most welcome here. Are you looking for contributing in some learning project? I am currently writing a notebook with software annotation. Are you interested? See [here](giovannabbottino.github.io/notebook/).
+Students are most welcome here. Are you looking for contributing in some learning project? I am currently writing a notebook with software annotation. Are you interested? See [here]((https://giovannabbottino.github.io/notebook/).
 
 Are you from UnB? 
 
