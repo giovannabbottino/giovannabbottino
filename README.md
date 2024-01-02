@@ -2,8 +2,6 @@
 
 ## 🤔 Are you from UnB? 
 
-Bem vindo amore. Tem alguns repositorios com codigos de estudo, se tiver interesse: 
-Não vão te auxiliar em todos os casos, mas espero que ajude. 
 - [Programação para Sistemas Paralelos e Distribuídos](https://github.com/giovannabbottino/pspd_unb)
 - [Sistemas de Bancos de Dados](https://github.com/giovannabbottino/SBD2_unb)
 - [Fundamentos de Redes de Computadores ](https://github.com/giovannabbottino/frc_unb)
