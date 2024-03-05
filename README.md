@@ -8,6 +8,8 @@
 - [Fundamentos de Sistemas Operacionais](https://github.com/giovannabbottino/fso_unb)
 - [Calculadora de congruencia](https://github.com/giovannabbottino/calculo_congruencia)
 - [Tecnicas de programação em plataformas emergentes](https://github.com/giovannabbottino/tppe_unb)
+- [Paradigmas](https://github.com/stars/giovannabbottino/lists/paradigmas)
+- [Projeto de Algoritmos](https://github.com/stars/giovannabbottino/lists/projeto-de-algoritmos)
 
 ## 📫 How to reach me
 
