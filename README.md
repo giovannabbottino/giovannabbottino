@@ -1,5 +1,9 @@
 # Hi there, how are you? 👋
 
+## 🕸 Are you into KG? 
+- [KG Construction](https://github.com/stars/giovannabbottino/lists/kg-construction)
+- [KG Evalutation](https://github.com/stars/giovannabbottino/lists/kg-evaluation)
+
 ## 🤔 Are you from UnB? 
 
 - [Programação para Sistemas Paralelos e Distribuídos](https://github.com/giovannabbottino/pspd_unb)
